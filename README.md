@@ -12,5 +12,6 @@ Ini merupakan aplikasi sistem informasi toko motor.
 - Pencarian Showroom Motor
 
 # ERD SI TOKO MOTOR
+![ERD SI TOKO MOTOR](https://user-images.githubusercontent.com/64180632/100824388-a4340000-3488-11eb-8296-2eec9107edd7.png)
 
 # Lembar Asistensi
