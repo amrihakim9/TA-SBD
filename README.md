@@ -15,3 +15,4 @@ Ini merupakan aplikasi sistem informasi toko motor.
 ![ERD SI TOKO MOTOR](https://user-images.githubusercontent.com/64180632/100824388-a4340000-3488-11eb-8296-2eec9107edd7.png)
 
 # Lembar Asistensi
+![Lembar Asistensi TA SBD](https://user-images.githubusercontent.com/64180632/100852819-934fb280-34b9-11eb-82bb-bf87f366f9f1.png)
